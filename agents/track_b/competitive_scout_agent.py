@@ -1,0 +1,1 @@
+from agents.competitive_scout_agent import scout_competition, format_budget
